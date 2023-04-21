@@ -49,3 +49,9 @@ font-size: 20px;
   
 	
 }
+.loginform{
+  margin:320px;
+  width: 400px;
+  border: 1px solid black;
+  border-top:1px ;
+}
