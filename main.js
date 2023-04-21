@@ -1,1 +1,3 @@
-console.log('Hello World!');
+ var changed =>(){
+   document.write('This document has changed!')
+ }
